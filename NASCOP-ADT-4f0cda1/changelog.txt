@@ -1,0 +1,50 @@
+Version 2.1 - 23/07/2014
+==============================================
+- Fixed: Merging drugs,regimens on diffferent pages.
+- Added: New Ctrl+F Search for Patients and Commodities
+
+Version 2.0 - 17/07/2013
+==============================================
+- Fixed: Added  Facility Dashboards
+- Added: New Reports Module
+
+Version 1.3 - 04/03/2013
+==============================================
+- Fixed: Adding Dispensing date to new Patients
+- Fixed: Adding Family Planning and other diseases bug saving 'null'
+- Added: Font-size for banner-text reduced to 22px
+- Added: User manual 
+- Added: Patient Scheduled to Visit Phone number/Alternative/Address added and visit status
+- Added: Quick Links
+- Added: Javascript HTML Table filter generator version 2.5 fro reports filtering
+
+Version 1.2 - 03/22/2013
+==============================================
+- Fixed: Footer Margin and Length
+- Fixed: Height for Bin card
+- Fixed: Other illness listing error
+- Added: Styling to Patient Management and inventory datagrid
+- Added: Display of Facility Name in offline pages
+- Added: Image Icons for add patient
+- Added: Year for offline pages from javascript
+- Added: datepicker for expirydate in dispensing
+- Added: UPPERCASE data display for patient management and inventory datagrid
+- Added: Notifier for success of adding patients and drug commodities
+
+
+Version 1.1 - 03/21/2013
+==============================================
+- Fixed: Data sanitization for Lost to follow up,PEP End and PMTCT End
+- Fixed: make sure the appointment date is set
+- Fixed: Synchronization of Drug Stock Movements
+- Fixed: Bug for counting enabled drugcodes
+- Fixed: Display of enabled drug codes on drugcode grid
+- Added: redesign of ADT interfaces to match Access-ADT
+- Added: Start Weight,Height,Body Surface Area,Transfer_From,nextappointment columns in Database
+- Added: Advanced Search for patients and inventory
+- Added: jQuery UI MultiSelect Widget added to handle family planning and other disease listing
+- Added: Synchronization of Non-Adherence Reasons changed from hard-coded reasons
+- Added: Synchronization of all facilitites to local database 
+- Added: Datatables intergration to settings
+
+
